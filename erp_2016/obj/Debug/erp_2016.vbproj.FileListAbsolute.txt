@@ -1,0 +1,11 @@
+c:\users\selmy\documents\visual studio 2015\Projects\erp_2016\erp_2016\bin\Debug\erp_2016.exe.config
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\bin\Debug\erp_2016.exe.config
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\bin\Debug\erp_2016.exe
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\bin\Debug\erp_2016.pdb
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\bin\Debug\erp_2016.xml
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\obj\Debug\erp_2016.vbprojResolveAssemblyReference.cache
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\obj\Debug\erp_2016.Resources.resources
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\obj\Debug\erp_2016.vbproj.GenerateResource.Cache
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\obj\Debug\erp_2016.exe
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\obj\Debug\erp_2016.xml
+C:\Users\KikeM\Documents\Visual Studio 2015\Projetcs\ERP\erp_2016\obj\Debug\erp_2016.pdb
